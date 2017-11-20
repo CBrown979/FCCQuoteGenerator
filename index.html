@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Quote Generator</title>
+        <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        
+        <script type="text/javascript" src="quoteGen.js"></script>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </head>
+    
+    <body>
+        <div class="container" id="quoteInfo">
+            <div class="row text-center">
+                <h1 class>Quote Generator</h1>
+                <div id="quotes" class= "well col-xs-12 message">
+                    <p id="quoteDisplay"></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-xs-12 row text-center">
+            <button id="getQuoteButton" class="btn btn-primary" onclick="newestQuote()">Change Quote</button><br>
+            <button><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=''">Tweet Me!</a>
+            </button>
+        </div>
+</html>
