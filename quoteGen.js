@@ -1,23 +1,19 @@
 var inspiredQuotes = [
-    'Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world. -Harriet Tubman',
+    'Change will not come if we wait for some other person or some other time. We are the ones we\'ve been waiting for. We are the change that we seek. -President Barack Obama',
+    'Have a vision. Be demanding. -Colin Powell',
+    'Love makes your soul crawl out from its hiding place. -Zora Neale Hurston',
+    'Never be limited by other people\'s limited imaginations. -Dr. Mae Jemison',
+    'Bringing the gifts that my ancestors gave, I am the dream and the hope of the slave. I rise. I rise. I rise. -Maya Angelou',
     'What God intended for you goes far beyond anything you can imagine. -Oprah Winfrey',
+    'Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. -Colin Powell',
     'I did what my conscience told me to do, and you can\'t fail if you do that. -Anita Hill',
     'Life is very short and what we have to do must be done in the now. -Audre Lorde',
-    'Mistakes are a fact of life. It is the response to the error that counts. -Nikki Giovanni',
     'Don\'t feel entitled to anything you didn\'t sweat and struggle for. -Marian Wright Edelman',
-    'No matter what accomplishments you make, somebody helped you. -Althea Gibson',
+    'Freedom is never given; it is won. -A. Philip Randolph',
     'As you become more clear about who you really are, you\'ll be better able to decide what is best for you - the first time around. -Oprah Winfrey',
-    'We can say "Peace on Earth." We can sing about it, preach about it or pray about it, but if we have not internalized the mythology to make it happen inside us, then it will not be. -Betty Shabazz',
-    'It\'s not the load that breaks you down, it\'s the way you carry it. -Lena Horne',
-    'It is not our differences that divide us. It is our inability to recognize, accept, and celebrate those differences. -Audre Lorde',
-    'There\'s always something to suggest that you\'ll never be who you wanted to be. Your choice is to take it or keep on moving. -Phylicia Rashad',
-    'Don\'t wait around for other people to be happy for you. Any happiness you get you\'ve got to make yourself. -Alice Walker',
-    'Give light and people will find the way. -Ella Baker',
-    'Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure.  -Oprah Winfrey',
-    'All great achievements require time. -Maya Angelou',
-    'The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity. -Ruby Dee',
-    'Service is the rent that you pay for room on this earth. -Shirley Chisholm',
-    'You don\'t make progress by standing on the sidelines, whimpering and complaining. You make progress by implementing ideas. - Shirley Chisholm'
+    'The cost of liberty is less than the price of repression. -W.E.B. Du Bois',
+    'You really can change the world if you care enough. -Marian Wright Edelman',
+    'Never underestimate the power of dreams and the influence of the human spirit. We are all the same in this notion: The potential for greatness lives within each of us. - Wilma Rudolph'
     ];
     
 function newestQuote(){
